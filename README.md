@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/Requests-2.32.3-black?style=flat&logo=Requests)
 ![](https://img.shields.io/badge/aiohttp-3.9.5-black?style=flat&logo=aiohttp)
 ![](https://img.shields.io/badge/pytest-7.4.3-black?style=flat&logo=pytest)
+
 This project is a Telegram bot designed to manage and update company information using the Telegram API and Google Sheets.
 
 ## Features
